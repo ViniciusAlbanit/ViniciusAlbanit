@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ViniciusAlbanit, I got to know the programming area two years ago, but I only started in 2022, I have experience with HTML | CSS | JavaScript | C++
-     I’m interested in the front end area
-     I’m currently improve myself in HTML, CSS and JavaScript
+    -I’m interested in the front end area
+    -I’m currently improve myself in HTML, CSS and JavaScript
 
 <div align="center">
   <a href="https://github.com/ViniciusAlbanit">
