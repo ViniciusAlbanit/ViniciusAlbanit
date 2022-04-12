@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ViniciusAlbanit, I got to know the programming area two years ago, but I only started in 202, I have experience with HTML | CSS | JavaScript | C++ I have already created a program to calculate or tax income in C++, help my church with the program for calculating expenses of the month, also in C++
+- 👋 Hi, I’m @ViniciusAlbanit, I got to know the programming area two years ago, but I only started in 2022, I have experience with HTML | CSS | JavaScript | C++
      I’m interested in the front end area
-     I’m currently improve myself in HTML, CSS and Java
+     I’m currently improve myself in HTML, CSS and JavaScript
 
 <div align="center">
   <a href="https://github.com/ViniciusAlbanit">
@@ -17,7 +17,7 @@
  </div>
      
   ##
-     
+     <p>how to find me</p>
      
  <div> 
   <a href="https://instagram.com/zzvinioozz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
