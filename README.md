@@ -1,6 +1,10 @@
 - 👋 Hi, I’m @ViniciusAlbanit, I got to know the programming area two years ago, but I only started in 2022, I have experience with HTML | CSS | JavaScript | C++  | Python
     -I’m interested in the front end area
     -I’m currently improve myself in HTML, CSS and JavaScript
+    
+   <div>
+      <img width="100%" src= "https://user-images.githubusercontent.com/94051879/194399251-72469c60-61c4-4db6-bcff-7a01f1041428.gif"
+   </div>
 
 <div align="center">
   <a href="https://github.com/ViniciusAlbanit">
