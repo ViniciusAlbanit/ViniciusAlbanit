@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @ViniciusAlbanit, I got to know the programming area two years ago, but I only started in 2022, I have experience with HTML | CSS | JavaScript | C++  | Python
-    -I’m interested in the front end area
-    -I’m currently improve myself in HTML, CSS and JavaScript
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=falso&vCenter=falso&width=435&lines=Prazer!+Sou+o+Vinicius+Albanit.;Muito+Bem-vindo(a)+ao+meu+GituHub!)](https://git.io/typing-svg)
     
    <div>
       <img width="100%" src= "https://user-images.githubusercontent.com/94051879/194399251-72469c60-61c4-4db6-bcff-7a01f1041428.gif"
